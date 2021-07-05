@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "id":"1",
+            "title": "The Bait Of Satan: Living Free from the Deadly Trap of Offense",
+            "author": "John Bevere",
+            "description": "Lorem ipsum",
+            "image": "bait.jpg"
+        },
+        {
+            "id":"2",
+            "title": "Driven by Eternity: Making Your Life Count Today & Forever",
+            "author": "John Bevere",
+            "description": "Lorem ipsum",
+            "image": "driven.jpg"
+        },
+        {
+            "id":"3",
+            "title": "A Heart Ablaze",
+            "author": "John Bevere",
+            "description": "Lorem ipsum",
+            "image": "heart.jpg"
+        },
+        {
+            "id":"4",
+            "title": "Battlefield of the Mind: Winning the Battle in Your Mind",
+            "author": "Joyce Meyer",
+            "description": "Lorem ipsum",
+            "image": "battlefield.jpg"
+        },
+        {
+            "id":"5",
+            "title": "Change Your Words, Change Your Life : Understanding the Power of Every Word You Speak",
+            "author": "Joyce Meyer",
+            "description": "Lorem ipsum",
+            "image": "words.jpg"
+        }
+    ]
+}
